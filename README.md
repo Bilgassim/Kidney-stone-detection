@@ -2,6 +2,7 @@
 Nous allons en fait creer un modele capable de detecter les calculs renaux
 Structure recommandé du repository :
 
+```
 kidney-stone-detection/
 ├── data/                      # Dossier pour stocker les images (localement ou lien vers drive)
 ├── notebooks/                 # Notebooks Jupyter d'exploration ou de test
