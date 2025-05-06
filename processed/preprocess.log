@@ -1,0 +1,5 @@
+2025-05-06 16:09:02,730 - INFO - Démarrage du prétraitement
+2025-05-06 16:12:37,039 - INFO - Traitement terminé en 214.3s | images par split: {'train': 6590, 'val': 1412, 'test': 1414}
+2025-05-06 16:12:37,195 - INFO - Metadata CSV saved to C:\Users\HP Elitebook\Desktop\Kidney-stone-detection\processed\metadata.csv (9416 entrées)
+2025-05-06 16:12:37,197 - WARNING - TensorFlow non installé, TFRecord non généré.
+2025-05-06 16:12:37,198 - INFO - Structure finale: {'train': 6590, 'val': 1412, 'test': 1414}
