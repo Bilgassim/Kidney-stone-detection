@@ -7,7 +7,8 @@ kidney-stone-detection/
 ├── data/                      # Dossier pour stocker les images (localement ou lien vers drive)
 ├── notebooks/                 # Notebooks Jupyter d'exploration ou de test
 ├── scripts/                   # Scripts Python (prétraitement, utils…)
-│   └── preprocess_dicom.py    # Script qu’on va créer
+│   └── preprocess_dicom.py
+│   └── preprocess_dataset.py
 ├── results/                   # Cartes de chaleur, visualisations, logs…
 ├── README.md                  # Présentation du projet
 ├── requirements.txt           # Dépendances Python
